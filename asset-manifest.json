@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nc-final-project/static/css/main.a747279d.chunk.css",
-    "main.js": "/nc-final-project/static/js/main.a2e3860f.chunk.js",
-    "main.js.map": "/nc-final-project/static/js/main.a2e3860f.chunk.js.map",
-    "runtime-main.js": "/nc-final-project/static/js/runtime-main.0bd083f4.js",
-    "runtime-main.js.map": "/nc-final-project/static/js/runtime-main.0bd083f4.js.map",
-    "static/css/2.353da563.chunk.css": "/nc-final-project/static/css/2.353da563.chunk.css",
-    "static/js/2.b0e8cb26.chunk.js": "/nc-final-project/static/js/2.b0e8cb26.chunk.js",
-    "static/js/2.b0e8cb26.chunk.js.map": "/nc-final-project/static/js/2.b0e8cb26.chunk.js.map",
-    "static/js/3.abde637d.chunk.js": "/nc-final-project/static/js/3.abde637d.chunk.js",
-    "static/js/3.abde637d.chunk.js.map": "/nc-final-project/static/js/3.abde637d.chunk.js.map",
-    "index.html": "/nc-final-project/index.html",
-    "static/css/2.353da563.chunk.css.map": "/nc-final-project/static/css/2.353da563.chunk.css.map",
-    "static/css/main.a747279d.chunk.css.map": "/nc-final-project/static/css/main.a747279d.chunk.css.map",
-    "static/js/2.b0e8cb26.chunk.js.LICENSE.txt": "/nc-final-project/static/js/2.b0e8cb26.chunk.js.LICENSE.txt"
+    "main.css": "/Compass_Test/static/css/main.a747279d.chunk.css",
+    "main.js": "/Compass_Test/static/js/main.856ccf13.chunk.js",
+    "main.js.map": "/Compass_Test/static/js/main.856ccf13.chunk.js.map",
+    "runtime-main.js": "/Compass_Test/static/js/runtime-main.0eed711b.js",
+    "runtime-main.js.map": "/Compass_Test/static/js/runtime-main.0eed711b.js.map",
+    "static/css/2.353da563.chunk.css": "/Compass_Test/static/css/2.353da563.chunk.css",
+    "static/js/2.9290cfbf.chunk.js": "/Compass_Test/static/js/2.9290cfbf.chunk.js",
+    "static/js/2.9290cfbf.chunk.js.map": "/Compass_Test/static/js/2.9290cfbf.chunk.js.map",
+    "static/js/3.abde637d.chunk.js": "/Compass_Test/static/js/3.abde637d.chunk.js",
+    "static/js/3.abde637d.chunk.js.map": "/Compass_Test/static/js/3.abde637d.chunk.js.map",
+    "index.html": "/Compass_Test/index.html",
+    "static/css/2.353da563.chunk.css.map": "/Compass_Test/static/css/2.353da563.chunk.css.map",
+    "static/css/main.a747279d.chunk.css.map": "/Compass_Test/static/css/main.a747279d.chunk.css.map",
+    "static/js/2.9290cfbf.chunk.js.LICENSE.txt": "/Compass_Test/static/js/2.9290cfbf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bd083f4.js",
+    "static/js/runtime-main.0eed711b.js",
     "static/css/2.353da563.chunk.css",
-    "static/js/2.b0e8cb26.chunk.js",
+    "static/js/2.9290cfbf.chunk.js",
     "static/css/main.a747279d.chunk.css",
-    "static/js/main.a2e3860f.chunk.js"
+    "static/js/main.856ccf13.chunk.js"
   ]
 }
