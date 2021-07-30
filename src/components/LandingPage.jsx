@@ -93,7 +93,7 @@ const LandingPage = ({ setUsername, username, setGroupName, groupName }) => {
             Join a Group
           </button>
         </div>
-        <Link to={`/nc-final-project/${groupName}`}>
+        <Link to={`/Compass_Test/${groupName}`}>
           <button
             className="group-button"
             disabled="true"

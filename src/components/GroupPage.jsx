@@ -31,10 +31,10 @@ const GroupPage = () => {
           );
         })}
       </ul>
-      <Link to={`/nc-final-project/${group_slug}/ar`}>
+      <Link to={`/Compass_Test/${group_slug}/ar`}>
         <button className="menu-buttons">View in AR</button>
       </Link>
-      <Link to={`/nc-final-project/${group_slug}/map`}>
+      <Link to={`/Compass_Test/${group_slug}/map`}>
         <button className="menu-buttons">View in 2D</button>
       </Link>
     </div>
