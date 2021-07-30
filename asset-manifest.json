@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Compass_Test/static/css/main.a747279d.chunk.css",
-    "main.js": "/Compass_Test/static/js/main.7d759429.chunk.js",
-    "main.js.map": "/Compass_Test/static/js/main.7d759429.chunk.js.map",
+    "main.js": "/Compass_Test/static/js/main.c812f338.chunk.js",
+    "main.js.map": "/Compass_Test/static/js/main.c812f338.chunk.js.map",
     "runtime-main.js": "/Compass_Test/static/js/runtime-main.e6a1e81d.js",
     "runtime-main.js.map": "/Compass_Test/static/js/runtime-main.e6a1e81d.js.map",
     "static/css/2.353da563.chunk.css": "/Compass_Test/static/css/2.353da563.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.353da563.chunk.css",
     "static/js/2.c8b49d7c.chunk.js",
     "static/css/main.a747279d.chunk.css",
-    "static/js/main.7d759429.chunk.js"
+    "static/js/main.c812f338.chunk.js"
   ]
 }
